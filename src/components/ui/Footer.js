@@ -1,9 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export const Footer = () => {
-    return (
-        <>
-            All Rigth reserved
-        </>
-    )
-}
+  return <>All Rigth reserved</>;
+};
